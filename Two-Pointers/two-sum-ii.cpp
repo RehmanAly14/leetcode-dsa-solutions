@@ -1,0 +1,33 @@
+/*
+LeetCode 167: Two Sum II - Input Array Is Sorted
+
+Approach: Two Pointers
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+Explanation:
+Since array is sorted, move pointers inward
+based on sum comparison.
+*/
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& numbers, int target) {
+        int i=0;
+        int j=numbers.size()-1;
+        while(i<j){
+            int sum = numbers[i]+numbers[j];
+            if(sum == target){
+                return {i+1,j+1};
+            }
+            else if (sum<target){
+                i++;
+            }
+            else if(sum>target){
+                j--;
+            }
+        
+        }
+return {};
+    }
+};
