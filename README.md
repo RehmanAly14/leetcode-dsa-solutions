@@ -9,5 +9,6 @@ I focus on:
 ## Problems Solved
 - Two Sum (Hash Map)
 - Two Sum II (Two Pointers)
+- Remove Duplicates from Sorted Array (Two Pointers)
 
 Language: C++
