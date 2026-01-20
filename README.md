@@ -10,5 +10,7 @@ I focus on:
 - Two Sum (Hash Map)
 - Two Sum II (Two Pointers)
 - Remove Duplicates from Sorted Array (Two Pointers)
+- Squares of a Sorted Array (Two Pointers / Merge)
+
 
 Language: C++
