@@ -10,6 +10,7 @@ I focus on:
 - Two Sum (Hash Map)
 - Two Sum II (Two Pointers)
 - Remove Duplicates from Sorted Array (Two Pointers)
+- 3Sum(Triplet sum to zero)
 - Merge Sorted Array
   - Extra Space Approach
   - In-Place Optimal Approach
