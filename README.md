@@ -12,6 +12,7 @@ I focus on:
 - Remove Duplicates from Sorted Array (Two Pointers)
 - 3Sum(Triplet sum to zero)
 - 3Sum Closest
+- GFG: Count Triplets with Sum Smaller than X (Sorting + Two Pointers)
 - Merge Sorted Array
   - Extra Space Approach
   - In-Place Optimal Approach
