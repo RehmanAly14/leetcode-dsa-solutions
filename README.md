@@ -17,6 +17,7 @@ I focus on:
   - Extra Space Approach
   - In-Place Optimal Approach
 - Squares of a Sorted Array (Two Pointers / Merge)
+- Sort-Colors(Dutch National Flag Algorithm (3 pointers))
 
 
 Language: C++
