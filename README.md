@@ -22,6 +22,7 @@ I focus on:
   📁 Sliding-Window
 - Max-Sum-Subarray-of-Size-K
 - Minimum Size Subarray Sum
+- Longest Substring with K Uniques
 
 
 Language: C++
