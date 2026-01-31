@@ -25,6 +25,7 @@ I focus on:
 - Longest Substring with K Uniques
 - Fruit Into Baskets
 - Longest Substring Without Repeating Characters
+- Longest Repeating Character Replacement
 
 
 Language: C++
