@@ -30,5 +30,8 @@ I focus on:
 - Max Consecutive Ones III
 - Minimum Window Substring
 
+  📁 Slow n Fast Pointers
+-Linked List Cycle
+
 
 Language: C++
