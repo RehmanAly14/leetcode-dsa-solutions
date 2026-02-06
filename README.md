@@ -35,6 +35,7 @@ I focus on:
 -Linked List Cycle II
 -Middle of the Linked List
 -Find the Duplicate Number
+-Happy Number
 
 
 Language: C++
