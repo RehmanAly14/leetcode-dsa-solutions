@@ -37,5 +37,8 @@ I focus on:
 -Find the Duplicate Number
 -Happy Number
 
+  📁 Kadane's Pattern
+-Maximum Subarray
+
 
 Language: C++
