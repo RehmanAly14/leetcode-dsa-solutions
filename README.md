@@ -39,6 +39,8 @@ I focus on:
 
   📁 Kadane's Pattern
 -Maximum Subarray
+-Smallest sum contiguous subarray
+
 
 
 Language: C++
