@@ -42,6 +42,7 @@ I focus on:
 -Smallest sum contiguous subarray
 -Maximum Product Subarray
 -Maximum Subarray Sum with One Deletion
+-Maximum Absolute Sum of Any Subarray
 
 
 
