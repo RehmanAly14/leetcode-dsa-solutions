@@ -45,6 +45,9 @@ I focus on:
 -Maximum Absolute Sum of Any Subarray
 -Maximum Sum Circular Subarray
 
+  📁 Prefix Sum
+-Find Pivot Index
+
 
 
 Language: C++
