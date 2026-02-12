@@ -47,6 +47,7 @@ I focus on:
 
   📁 Prefix Sum
 -Find Pivot Index
+-Subarray Sum Equals K
 
 
 
