@@ -2,7 +2,8 @@ class Solution {
   public:
     bool isIntersect(vector<vector<int>> intervals) {
         // Code Here
-         int start1=intervals[0][0];
+        sort(intervals.begin(),intervals.end());
+        int start1=intervals[0][0];
         int end1=intervals[0][1];
         int n=intervals.size();
         for(int i=1;i<n;i++){
