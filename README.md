@@ -67,6 +67,7 @@ I focus on:
 
   📁 Hash Map
 -First Unique Character in a String
+-Ransom Note
 
 
 
