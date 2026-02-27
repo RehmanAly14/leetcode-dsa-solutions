@@ -69,6 +69,7 @@ I focus on:
 -First Unique Character in a String
 -Ransom Note
 -Maximum Number of Balloons
+-Longest Palindrome
 
 
 
