@@ -70,7 +70,8 @@ I focus on:
 -Ransom Note
 -Maximum Number of Balloons
 -Longest Palindrome
-
+  📁 In-place Reversal of a LinkedList
+-Reverse Linked List
 
 
 Language: C++
