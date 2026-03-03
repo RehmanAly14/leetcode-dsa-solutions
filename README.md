@@ -73,6 +73,7 @@ I focus on:
   📁 In-place Reversal of a LinkedList
 -Reverse Linked List
 -Reverse Linked List II
+-Swap Nodes in Pairs
 
 
 Language: C++
