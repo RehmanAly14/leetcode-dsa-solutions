@@ -75,6 +75,7 @@ I focus on:
 -Reverse Linked List II
 -Swap Nodes in Pairs
 -Reverse Nodes in k-Group
+-Rotate List
 
 
 Language: C++
