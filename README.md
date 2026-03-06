@@ -77,5 +77,8 @@ I focus on:
 -Reverse Nodes in k-Group
 -Rotate List
 
+  📁 Binary Search
+-Binary Search
+
 
 Language: C++
