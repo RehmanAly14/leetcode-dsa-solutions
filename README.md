@@ -7,7 +7,7 @@ I focus on:
 - Important DSA patterns
 
 ## Problems Solved
-📁 Two-Pointer
+  📁 Two-Pointer
 - Two Sum (Hash Map)
 - Two Sum II (Two Pointers)
 - Remove Duplicates from Sorted Array (Two Pointers)
