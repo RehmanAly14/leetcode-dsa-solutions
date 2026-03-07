@@ -81,5 +81,7 @@ I focus on:
 -Binary Search
 -Ceil in a Sorted Array (gfg)
 -Find First and Last Position of Element in Sorted Array
+-Peak Index in a Mountain Array
+
 
 Language: C++
