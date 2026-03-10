@@ -83,6 +83,7 @@ I focus on:
 -Find First and Last Position of Element in Sorted Array
 -Peak Index in a Mountain Array
 -Find Minimum in Rotated Sorted Array
+-Search in Rotated Sorted Array
 
 
 Language: C++
