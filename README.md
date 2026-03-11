@@ -84,6 +84,6 @@ I focus on:
 -Peak Index in a Mountain Array
 -Find Minimum in Rotated Sorted Array
 -Search in Rotated Sorted Array
-
+-Koko Eating Bananas
 
 Language: C++
