@@ -86,7 +86,8 @@ I focus on:
 -Search in Rotated Sorted Array
 -Koko Eating Bananas
 -Aggressive Cows
-Allocate Minimum Pages
+-Allocate Minimum Pages
+-Search a 2D Matrix
 
 
 Language: C++
