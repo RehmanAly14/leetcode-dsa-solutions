@@ -86,5 +86,7 @@ I focus on:
 -Search in Rotated Sorted Array
 -Koko Eating Bananas
 -Aggressive Cows
+Allocate Minimum Pages
+
 
 Language: C++
