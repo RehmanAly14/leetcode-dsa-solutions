@@ -92,5 +92,7 @@ I focus on:
 -Kth Smallest Element in a Sorted Matrix
 -Kth Smallest Number in Multiplication Table
 
+   📁Heap
+-Kth Smallest(gfg)
 
 Language: C++
