@@ -90,6 +90,7 @@ I focus on:
 -Search a 2D Matrix
 -Search a 2D Matrix II
 -Kth Smallest Element in a Sorted Matrix
+-Kth Smallest Number in Multiplication Table
 
 
 Language: C++
