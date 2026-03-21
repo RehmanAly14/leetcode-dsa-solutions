@@ -101,6 +101,7 @@ I focus on:
 -Reorganize String
 -K Closest Points to Origin
 -IPO
-Course Schedule III
+-Course Schedule III
+-Merge k Sorted Arrays
 
 Language: C++
