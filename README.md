@@ -64,6 +64,7 @@ I focus on:
 -Next Greater Element II
 -Daily Temperatures
 -Remove All Adjacent Duplicates in String II
+-Longest Valid Parentheses
 
   📁 Hash Map
 -First Unique Character in a String
