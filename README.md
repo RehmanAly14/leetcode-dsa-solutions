@@ -110,5 +110,7 @@ I focus on:
    📁Recursion and Backtracking Pattern
 -Fibonacci Number
 -Palindrome String(gfg)
+-Check if array is sorted(gfg)
+
 
 Language: C++
