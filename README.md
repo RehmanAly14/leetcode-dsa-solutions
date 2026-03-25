@@ -113,6 +113,7 @@ I focus on:
 -Check if array is sorted(gfg)
 -Sum Of Digits(gfg)
 -Remove all occurrences of a character in a string(gfg)
+-Generate Parentheses
 
 
 
