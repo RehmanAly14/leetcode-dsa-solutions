@@ -111,6 +111,8 @@ I focus on:
 -Fibonacci Number
 -Palindrome String(gfg)
 -Check if array is sorted(gfg)
+-Sum Of Digits(gfg)
+
 
 
 Language: C++
