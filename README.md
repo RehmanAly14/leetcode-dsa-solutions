@@ -120,6 +120,7 @@ I focus on:
    📁Tree
 1-Traversal
    -Binary Tree Inorder Traversal
+   -Binary Tree Preorder Traversal
 
 
 
