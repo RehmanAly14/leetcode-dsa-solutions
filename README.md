@@ -148,7 +148,9 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Postorder Traversal  
 - Level Order Traversal  
 - Zigzag Level Order  
-- Level Order Traversal II  
+- Level Order Traversal II
+#### Mirror and Symmetry
+ - Same Tree
 
 ---
 
