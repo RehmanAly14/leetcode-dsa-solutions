@@ -152,6 +152,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 #### Mirror and Symmetry
  - Same Tree
  - Symmetric Tree
+ - Invert Binary Tree
 
 ---
 
