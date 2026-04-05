@@ -153,6 +153,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
  - Same Tree
  - Symmetric Tree
  - Invert Binary Tree
+ - Lowest Common Ancestor of a Binary Tree
 
 ---
 
