@@ -155,6 +155,8 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
  - Invert Binary Tree
  - Lowest Common Ancestor of a Binary Tree
  - Subtree of Another Tree
+#### Mirror and Symmetry
+ -Search in a Binary Search Tree
 
 ---
 
