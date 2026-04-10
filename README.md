@@ -158,6 +158,8 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 #### Mirror and Symmetry
  -Search in a Binary Search Tree
  -Two Sum IV - Input is a BST
+#### path Sum
+ - Path Sum
 
 ---
 
