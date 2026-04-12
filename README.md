@@ -161,6 +161,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 #### path Sum
  - Path Sum
  - Sum Root to Leaf Numbers
+ - Path Sum II
 
 ---
 
