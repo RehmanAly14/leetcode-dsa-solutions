@@ -164,6 +164,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
  - Path Sum II
 #### Validation
  -Diameter of Binary Tree
+ -Check Completeness of a Binary Tree
 
 ---
 
