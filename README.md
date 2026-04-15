@@ -165,6 +165,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 #### Validation
  -Diameter of Binary Tree
  -Check Completeness of a Binary Tree
+ -Validate Binary Search Tree
 
 ---
 
