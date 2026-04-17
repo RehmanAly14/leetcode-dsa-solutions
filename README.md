@@ -172,6 +172,10 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 
 ---
 
+### 🔹 Graph
+-Print adjacency list(GFG)
+
+
 ## 🛠️ Tech Stack
 - **Language:** C++  
 - **Platform:** LeetCode, GeeksforGeeks  
