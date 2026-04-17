@@ -167,6 +167,8 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
  -Check Completeness of a Binary Tree
  -Validate Binary Search Tree
  -Recover Binary Search Tree
+#### Construction
+ -Construct Binary Tree from Preorder and Inorder Traversal
 
 ---
 
