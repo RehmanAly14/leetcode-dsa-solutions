@@ -176,6 +176,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 -Print adjacency list(GFG)
 -DFS of Graph(GFG)
 -BFS of graph(GFG)
+-Number of Islands
 
 
 
