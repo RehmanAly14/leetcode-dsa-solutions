@@ -163,21 +163,21 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
  - Sum Root to Leaf Numbers
  - Path Sum II
 #### Validation
- -Diameter of Binary Tree
- -Check Completeness of a Binary Tree
- -Validate Binary Search Tree
- -Recover Binary Search Tree
+ - Diameter of Binary Tree
+ - Check Completeness of a Binary Tree
+ - Validate Binary Search Tree
+ - Recover Binary Search Tree
 #### Construction
- -Construct Binary Tree from Preorder and Inorder Traversal
+ - Construct Binary Tree from Preorder and Inorder Traversal
 
 ---
 
 ### 🔹 Graph
--Print adjacency list(GFG)
--DFS of Graph(GFG)
--BFS of graph(GFG)
--Number of Islands
--Rotting Oranges
+- Print adjacency list(GFG)
+- DFS of Graph(GFG)
+- BFS of graph(GFG)
+- Number of Islands
+- Rotting Oranges
 
 ---
 
