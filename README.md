@@ -184,6 +184,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 ### 🔹 Number Theory
 - Power of Two
 - Power of Three
+- Power of Four
 
 ---
 
