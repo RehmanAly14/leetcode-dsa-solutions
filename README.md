@@ -185,6 +185,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Power of Two
 - Power of Three
 - Power of Four
+- Number of 1 Bits
 
 ---
 
