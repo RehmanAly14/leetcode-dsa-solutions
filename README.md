@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
   - In-Place Optimal  
 - Squares of a Sorted Array  
 - Sort Colors (Dutch National Flag Algorithm)
+- Container With Most Water
 
 ---
 
