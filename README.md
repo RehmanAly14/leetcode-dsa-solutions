@@ -61,7 +61,9 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Find Pivot Index  
 - Subarray Sum Equals K  
 - Subarray Sums Divisible by K  
-- Contiguous Array  
+- Contiguous Array
+- Product of Array Except Self
+
 
 ---
 
