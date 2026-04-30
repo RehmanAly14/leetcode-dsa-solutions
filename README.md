@@ -194,7 +194,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language:** C++  
 - **Platform:** LeetCode, GeeksforGeeks  
 
