@@ -27,6 +27,11 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 
 ---
 
+### 🔹 2D Array
+- Spiral Matrix
+
+---
+
 ### 🔹 Sliding Window
 - Maximum Sum Subarray of Size K  
 - Minimum Size Subarray Sum  
