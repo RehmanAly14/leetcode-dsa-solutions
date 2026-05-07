@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Remove Duplicates from Sorted Array
 - 3Sum (Triplet Sum to Zero)
 - 3Sum Closest
+- 4Sum
 - Count Triplets with Sum Smaller than X (GFG)
 - Merge Sorted Array  
   - Extra Space  
