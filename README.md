@@ -190,6 +190,8 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Number of Islands
 - Rotting Oranges
 - Undirected Graph Cycle(GFG)
+- Directed Graph Cycle(GFG)
+
 
 ---
 
