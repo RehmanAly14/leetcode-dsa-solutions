@@ -148,7 +148,8 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Remove Characters from String  
 - Generate Parentheses  
 - Letter Combinations of Phone Number  
-- Combination Sum  
+- Combination Sum
+- N-Queens
 
 ---
 
