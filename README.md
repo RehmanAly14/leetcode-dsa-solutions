@@ -194,7 +194,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Undirected Graph Cycle(GFG)
 - Directed Graph Cycle(GFG)
 - Topological Sort(GFG)
-
+- Is Graph Bipartite?
 
 
 ---
