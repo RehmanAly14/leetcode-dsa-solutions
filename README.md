@@ -151,6 +151,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Combination Sum
 - N-Queens
 - Sudoku Solver
+- N-Queens II
 
 ---
 
