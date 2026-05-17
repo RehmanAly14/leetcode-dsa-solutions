@@ -199,6 +199,10 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Surrounded Regions
 - Shortest Path in Undirected Graph(GFG)
 
+---
+
+### 🔹 Dijkstra Algorithm
+- Dijkstra Algorithm
 
 ---
 
