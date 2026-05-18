@@ -203,6 +203,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 
 ### 🔹 Dijkstra Algorithm
 - Dijkstra Algorithm(GFG)
+- Network Delay Time
 
 ---
 
