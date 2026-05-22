@@ -205,6 +205,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Dijkstra Algorithm(GFG)
 - Network Delay Time
 - Path With Minimum Effort
+- Swim in Rising Water
 
 ---
 
