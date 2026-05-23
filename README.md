@@ -214,6 +214,11 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 
 ---
 
+### 🔹 Prim's Algorithm
+- Minimum Spanning Tree(GFG)
+
+---
+
 ### 🔹 Number Theory
 - Power of Two
 - Power of Three
