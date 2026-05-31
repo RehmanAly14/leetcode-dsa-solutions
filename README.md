@@ -224,6 +224,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 ### 🔹 Dynamic Programming
 - Fibonacci Number
 - Climbing Stairs
+- House Robber
 
 ---
 
