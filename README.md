@@ -257,7 +257,7 @@ This is a personal learning repository, but suggestions and improvements are alw
 
 ---
 
-## 🔗 Connect with Me
+##  Connect with Me
 - GitHub: https://github.com/RehmanAly14  
 - LinkedIn: https://linkedin.com/in/SherryRehman  
 
