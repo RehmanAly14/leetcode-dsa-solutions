@@ -226,6 +226,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Climbing Stairs
 - House Robber
 - House Robber II
+- House Robber III
 - 0 - 1 Knapsack Problem(GFG)
 
 ---
