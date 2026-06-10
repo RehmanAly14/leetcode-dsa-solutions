@@ -237,6 +237,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Power of Four
 - Number of 1 Bits
 - Single Number
+- Missing Number
 
 ---
 
