@@ -231,6 +231,8 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 
 ---
 
+### 🔹 Tabulation
+
 ### 🔹 Number Theory
 - Power of Two
 - Power of Three
