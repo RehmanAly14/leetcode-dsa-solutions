@@ -233,6 +233,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 
 ### 🔹 Tabulation
 - Fibonacci Number
+- Climbing Stairs
 
 ---
 
