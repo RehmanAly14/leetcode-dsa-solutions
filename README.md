@@ -97,7 +97,8 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - First Unique Character  
 - Ransom Note  
 - Maximum Number of Balloons  
-- Longest Palindrome  
+- Longest Palindrome
+- Contains Duplicate
 
 ---
 
