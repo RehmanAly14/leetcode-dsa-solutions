@@ -171,8 +171,8 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
  - Lowest Common Ancestor of a Binary Tree
  - Subtree of Another Tree
 #### Mirror and Symmetry
- -Search in a Binary Search Tree
- -Two Sum IV - Input is a BST
+ - Search in a Binary Search Tree
+ - Two Sum IV - Input is a BST
 #### path Sum
  - Path Sum
  - Sum Root to Leaf Numbers
