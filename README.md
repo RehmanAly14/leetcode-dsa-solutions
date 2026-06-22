@@ -237,7 +237,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Climbing Stairs
 #### Subset Sum
 - Subset Sum Problem(GFG)
-- Partition Equal Subset Sum
+- Partition Equal Subset Sum(GFG)
 - Perfect Sum Problem
 
 ---
