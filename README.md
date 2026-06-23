@@ -99,6 +99,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Maximum Number of Balloons  
 - Longest Palindrome
 - Contains Duplicate
+- Valid Anagram
 
 ---
 
