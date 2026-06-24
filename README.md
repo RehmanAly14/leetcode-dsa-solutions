@@ -100,6 +100,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Longest Palindrome
 - Contains Duplicate
 - Valid Anagram
+- Group Anagrams
 
 ---
 
