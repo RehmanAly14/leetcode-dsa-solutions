@@ -239,6 +239,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Fibonacci Number
 - Climbing Stairs
 - Longest Increasing Subsequence
+- Longest Common Subsequence
 #### Subset Sum
 - Subset Sum Problem(GFG)
 - Partition Equal Subset Sum(GFG)
