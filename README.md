@@ -240,6 +240,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Climbing Stairs
 - Longest Increasing Subsequence
 - Longest Common Subsequence
+- Unique Paths
 #### Subset Sum
 - Subset Sum Problem(GFG)
 - Partition Equal Subset Sum(GFG)
