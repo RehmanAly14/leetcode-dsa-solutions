@@ -102,6 +102,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Valid Anagram
 - Group Anagrams
 - Valid Sudoku
+- Longest Consecutive Sequence
 
 ---
 
