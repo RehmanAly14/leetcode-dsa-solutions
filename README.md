@@ -280,7 +280,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 
 ---
 
-##  Contribution
+#  Contribution
 This is a personal learning repository, but suggestions and improvements are always welcome!
 
 ---
