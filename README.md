@@ -238,6 +238,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Best Time to Buy and Sell Stock II
 - Best Time to Buy and Sell Stock III
 - Best Time to Buy and Sell Stock IV
+- Minimum Cost to Cut a Stick
 
 ---
 
