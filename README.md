@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Container With Most Water
 - String Compression
 - Valid Palindrome
+- Trapping Rain Water
 
 ---
 
