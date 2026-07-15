@@ -23,7 +23,6 @@ public:
                 res=max(len,res);
         }
       
-        return (res == INT_MIN)? -1 : res;
-        
+        return (res == INT_MIN)? -1 : res;       
     }
 };
