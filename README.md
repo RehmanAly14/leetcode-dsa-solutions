@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 - Max Consecutive Ones III  
 - Minimum Window Substring
 - Find the Index of the First Occurrence in a String
+- Permutation in String
 
 ---
 
