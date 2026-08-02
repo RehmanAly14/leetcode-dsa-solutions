@@ -35,6 +35,5 @@ public:
         srow++; scol++; erow--; ecol--; 
         }
          return ans; 
-    }
-   
+    }   
 };
