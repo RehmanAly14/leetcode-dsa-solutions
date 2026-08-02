@@ -13,7 +13,6 @@ public:
         for(int j=scol;j<=ecol;j++){
             ans.push_back(mat[srow][j]);
         }
-
         //right
          for(int j=srow+1;j<=erow;j++){
             ans.push_back(mat[j][ecol]);
