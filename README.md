@@ -271,6 +271,7 @@ This repository contains my solutions to LeetCode and GFG problems, focusing on:
 
 ### 🔹 Greedy Algorithm
 - Lemonade Change
+- Assign Cookies
 
 ---
 
